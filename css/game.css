@@ -32,7 +32,6 @@ body {
 }
 
 .front {
-  background-image: url("../img/1trio.jpg");
   transform: rotateY(180deg);
 }
 
